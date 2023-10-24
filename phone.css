@@ -1,0 +1,22 @@
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+}
+/* Home Section */
+#home{
+     height: 480px;
+}
+
+/* Services Section */
+#services{
+    flex-direction: column;
+}
+#serices .box{
+
+}
+/* Clients Section */
+#clients{
+    overflow: hidden;
+}
+/* Contact Us */
+/* Footer */
